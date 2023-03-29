@@ -1,7 +1,9 @@
 # DB_ASSIGNMENT2
 
-Our Original ERD: https://imgur.com/a/avb4nfm
-Our Original Relational-Diagram: https://imgur.com/LA6RmTL
+Our Original ERD: 
+https://imgur.com/a/avb4nfm
+Our Original Relational-Diagram: 
+https://imgur.com/LA6RmTL
 
 https://github.com/Awaiz16/DB_ASSIGNMENT2   // This is the link to the assignment GitHub repo
 
