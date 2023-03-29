@@ -1,5 +1,5 @@
 # DB_ASSIGNMENT2
-
+# Done by Salar Shoaib and Ahmed Awaiz, Roll No. 20i0830 and 21i1539 respectively
 Our Original ERD: 
 https://imgur.com/a/avb4nfm
 Our Original Relational-Diagram: 
